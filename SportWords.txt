@@ -1,0 +1,8 @@
+basketball
+baseball
+soccer
+hocky
+fishing
+skiing
+tennis
+archery
